@@ -1,6 +1,6 @@
 # @ASHIMTOM7
 > * cybersecurity enthusiast
-> *bugbounty bugcrowd penetration testing
+> * bugbounty bugcrowd penetration testing
 
 
 <!---
