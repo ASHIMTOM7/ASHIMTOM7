@@ -3,13 +3,13 @@
 > * bugbounty 
 > * penetration testing
 ### Handles
-> bugcrowd:
-> hackerone:
-> hackerrank:
-> gitlab:
-> twitter:
-> facebook:
-> instagam:
+> bugcrowd:\
+> hackerone:\
+> hackerrank:\
+> gitlab:\
+> twitter:\
+> facebook:\
+> instagam:\
  
 
 
