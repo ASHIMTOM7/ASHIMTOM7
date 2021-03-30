@@ -1,4 +1,4 @@
-## Hi I'am @ASHIMTOM7
+## @ASHIMTOM7
 ### Interests
 > * cybersecurity enthusiast
 > * bugbounty 
