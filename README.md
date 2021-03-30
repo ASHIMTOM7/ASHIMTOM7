@@ -9,7 +9,7 @@
 > gitlab:\
 > twitter:\
 > facebook:\
-> instagam:\
+> instagam:
  
 
 
