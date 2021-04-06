@@ -4,13 +4,13 @@
 > * bugbounty 
 > * penetration testing
 ### Handles
-> bugcrowd:\
+> bugcrowd\
 > [hackerone](https://hackerone.com/he11xsm0k)\
-> hackerrank:\
-> gitlab:\
-> twitter:\
-> facebook:\
-> instagam:
+> hackerrank\
+> gitlab\
+> twitter\
+> facebook\
+> instagam
  
 
 
