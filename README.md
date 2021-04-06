@@ -5,7 +5,7 @@
 > * penetration testing
 ### Handles
 > bugcrowd:\
-> hackerone:\
+> [hackerone](https://hackerone.com/he11xsm0k)\
 > hackerrank:\
 > gitlab:\
 > twitter:\
