@@ -1,4 +1,4 @@
-##                                         Hi i am Ashim, (badcharacter0xff)
+##                                         Hi i am Ashim, (KoldScrypt)
 ###  Interests
 > * cybersecurity enthusiast
 > * bugbounty 
