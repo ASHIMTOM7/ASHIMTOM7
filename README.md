@@ -1,16 +1,10 @@
 ##                                         Hi i am Ashim, (KoldScrypt)
 ###  Interests
 > * cybersecurity enthusiast
-> * bugbounty 
-> * penetration testing
-### Handles
-> [bugcrowd](https://bugcrowd.com/he11xsm0k)\
-> [hackerone](https://hackerone.com/he11xsm0k)\
-> hackerrank\
-> gitlab\
-> twitter\
-> facebook\
-> instagam
+> * cloud services AWS,GCP,AZURE
+> * AI/ML Artificial Intelligence And Machine Learning
+> * Quant And Finance
+
  
 
 
