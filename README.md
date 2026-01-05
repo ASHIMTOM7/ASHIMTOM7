@@ -3,6 +3,7 @@
 > * cybersecurity enthusiast
 > * cloud services AWS,GCP,AZURE
 > * AI/ML Artificial Intelligence And Machine Learning
+> * Data Engineering ETL/ELT pipelines Data Modeling 
 > * Quant And Finance
 
  
